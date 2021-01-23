@@ -1,3 +1,6 @@
+Modified: Changed MAX_CONNECTION_PER_SERVER to -1 and DockerFile.mingw
+======================================================================
+
 aria2 - The ultra fast download utility
 =======================================
 
